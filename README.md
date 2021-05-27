@@ -1,7 +1,7 @@
 <br/>
 <p align="center">
     <a href="https://pclub.in/" target="_blank">
-        <img width="50%" src="https://drive.google.com/file/d/1zwIJfpqAGZKLSxC71OwaWbOgLouljI5V/view?usp=sharing" alt="Programming Club">
+        <img width="50%" src="https://drive.google.com/file/d/1zwIJfpqAGZKLSxC71OwaWbOgLouljI5V/view?usp=sharing" alt="Programming Club IIT Kanpur">
     </a>
 </p>
 
